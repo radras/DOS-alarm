@@ -1,6 +1,7 @@
 # DOS-alarm
-DOS alarm clock written in NASM as Operating Systems course homework.
+DOS alarm clock written in NASM for Operating Systems course homework. <br>
+Works as a TSR program.
 
 # Using a program
-domaci1.com -start 21:00:05
+domaci1.com -start 21:00:05 <br>
 domaci1.com -stop
